@@ -5,11 +5,10 @@
 2. ## 도커진입 명령어
    $ docker exec -it homeassistant bash
 
-3. sh 파일 실행
-   
+3. ## sh 파일 실행 
    bash -c "$(wget -O - 'https://raw.githubusercontent.com/RunacKim/HA_Related/main/changing_map.sh')"
 
-5. 명령 실행후 경로 선택   
+4. ## 명령 실행후 경로 선택   
    Connecting to raw.githubusercontent.com (185.199.110.133:443)
    writing to stdout
    -                    100% |***********************************************************************************************************************************************************************************************|  2895  0:00:00 ETA
