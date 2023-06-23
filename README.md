@@ -8,11 +8,11 @@
 3. ## sh 파일 실행 
    bash -c "$(wget -O - 'https://raw.githubusercontent.com/RunacKim/HA_Related/main/changing_map.sh')"
 
-4. ## 명령 실행후 경로 선택   
+4. ## 명령 실행후 경로 선택  경로는 1번 선택 
    Connecting to raw.githubusercontent.com (185.199.110.133:443)
    writing to stdout
    -                    100% |***********************************************************************************************************************************************************************************************|  2895  0:00:00 ETA
-   written to stdout 
+   written to stdout
    INFO: '/usr/local/lib/' 에서 hass_frontend 디렉토리 찾는중...
    * 작업 대상 경로 목록
        0) 경로가 없음.
